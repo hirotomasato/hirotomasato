@@ -14,13 +14,13 @@
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Latin%20Letters.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Latin%20Letters.png" width="24"></picture> About
+## About
 
 Backend engineer focused on **payment infrastructure**, **AI tooling**, and **developer platform** services. Clean architecture, protocol correctness, zero-dependency where it counts.
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24"></picture> Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,py,rust,postgres,sqlite,redis,docker,linux,cloudflare,workers,nodejs,bun,nextjs,fastapi,grafana,prometheus,nginx,git,github,neovim,vscode&perline=11&theme=dark">
@@ -28,7 +28,7 @@ Backend engineer focused on **payment infrastructure**, **AI tooling**, and **de
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="24"></picture> Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ Backend engineer focused on **payment infrastructure**, **AI tooling**, and **de
 
 ---
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="24"></picture> GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <picture>
