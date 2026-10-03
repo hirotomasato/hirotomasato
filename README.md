@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=hirotomasato&style=flat-square&color=58a6ff&label=views">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hirotomasato&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15">
-</p>
-
 ---
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Latin%20Letters.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Input%20Latin%20Letters.png" width="24"></picture> About
